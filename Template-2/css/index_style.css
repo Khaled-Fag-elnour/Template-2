@@ -1,0 +1,102 @@
+
+*
+{
+    font-size: 16px;
+    padding: 2px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+body{
+    font-family: 'segoe ui light';
+    font-weight: 400;
+    background-color: #f1f1f1
+}
+.product-form
+{
+    background-color: #171717;
+    color: #acadae;
+    padding: 25px 0
+}
+.product-form .form-group
+{
+    width: 75%;
+    margin: auto
+}
+.inputs
+{
+    width: 100%;
+    height: 40px;
+    padding: 5px 8px;
+    border: none;
+    border-bottom: 2px solid #6a6a6a;
+    overflow: visible;
+    background-color: transparent;
+    color: #999097;
+    box-shadow: inset 0 0 15px rgba(0,0,0,0.8)
+}
+textarea
+{
+    height: 85px !important
+}
+#btn
+{
+    margin-top: 30px
+}
+.product
+{
+    background-color: #f5f5f5;
+    padding: 20px
+}
+.products .title
+{
+    font-size: 18px;
+    font-weight: 300;
+    color: #000
+}
+.products h2
+{
+    font-size: 26px;
+    font-weight: 500;
+    color: #2A3C58
+}
+.products h3
+{
+    font-size: 22px;
+    font-weight: 500;
+    color: #0055D9
+}
+.products .price
+{
+    color: #D62e33;
+    font-weight: 500
+}
+.products p
+{
+    font-size: 20px;
+    color: #454545
+}
+.search
+{
+    position: relative
+}
+.search img
+{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 35px;
+    height: 40px;
+    padding: 6px 2px 2px 10px
+}
+#searchInp
+{
+    width: 100%;
+    height: 40px;
+    padding: 5px 8px 5px 40px;
+    border: none;
+}
+
+
+
+
